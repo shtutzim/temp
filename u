@@ -1,3 +1,4 @@
+# Credit to http://www.tutorialspoint.com/unix_system_calls/sysinfo.htm
 #include <linux/kernel.h>
 #include <stdio.h>
 #include <sys/sysinfo.h>
